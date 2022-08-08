@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **hackathons, open source projects**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 📝 I regularly write articles on [https://dev.to/rahulsh1](https://dev.to/rahulsh1)
 
-- 💬 Ask me about **javascript, C++**
+- 💬 Ask me about **javascript**
 
 - ⚡ Fun fact **I can talk about the NBA all day**
 
