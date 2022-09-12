@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **hackathons, open source projects**
 
-- 🤝 I’m looking for help with **Backend Development**
-
 - 📝 I regularly write articles on [https://dev.to/rahulsh1](https://dev.to/rahulsh1)
 
 - 💬 Ask me about **javascript**
