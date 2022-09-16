@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MEAN Stack**
 
 - 🌱 I’m currently learning **Vue.js**
 
