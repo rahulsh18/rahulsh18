@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **MEAN Stack**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **hackathons, open source projects**
 
